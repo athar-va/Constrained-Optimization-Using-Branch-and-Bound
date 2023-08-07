@@ -11,5 +11,6 @@ The project focuses on simulating the Branch and Bound algorithm to solve constr
 - Branch and Bound Algorithm
 - Constrained Optimization
 - Memoization
+- Karush–Kuhn–Tucker conditions
 
 #optimization #algorithms #datascience #branchandbound #constrainedoptimization
